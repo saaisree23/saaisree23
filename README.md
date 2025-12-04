@@ -15,7 +15,6 @@ Learning step by step and building projects to grow in the AI/ML field.
 - Improve coding logic
 - Create a strong GitHub with real work
 - Get internships in AI/Data/Python
-- 
 - Become confident in AI/ML
 
 📫 Contact  
